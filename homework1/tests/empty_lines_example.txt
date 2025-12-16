@@ -1,7 +1,0 @@
-non empty
-
-was empty
-
-
-two empty
-no empty
