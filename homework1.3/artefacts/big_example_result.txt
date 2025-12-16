@@ -1,0 +1,1 @@
+     148    1814   11271 artefacts/big_example.txt

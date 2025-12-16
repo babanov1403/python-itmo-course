@@ -1,0 +1,5 @@
+    1  s
+    2  sm
+    3  sma
+    4  smal
+    5  small

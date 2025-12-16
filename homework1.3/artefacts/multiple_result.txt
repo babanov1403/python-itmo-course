@@ -1,0 +1,5 @@
+      16      41     177 artefacts/unit_example.txt
+     148    1814   11271 artefacts/big_example.txt
+       6       8      41 artefacts/empty_lines_example.txt
+      16      41     177 artefacts/unit_example.txt
+     186    1904   11666 total

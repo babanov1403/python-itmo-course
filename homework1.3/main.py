@@ -19,8 +19,8 @@ def run():
         lines, words, bytes = get_stats(content)
         print(f"{lines:8}{words:8}{bytes:8}")
         return
-    
-    for idx, file_name in enumerate(sys.argv[1:]):
+    total_lines = total_words = total_chars = 0
+    for file_name in sys.argv[1:]:
         with open(file_name, 'r', encoding='utf-8') as f:
                 text = f.read()
                 lines, words, bytes = get_stats(text)

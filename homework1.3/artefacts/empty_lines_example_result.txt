@@ -1,0 +1,1 @@
+       6       8      41 artefacts/empty_lines_example.txt
